@@ -2,7 +2,8 @@
 name = "cemantix-assistant"
 version = "0.1.0"
 description = ""
-authors = ["cgrimal <clement.grimal@sigfox.com>"]
+authors = ["Clément Grimal <clement.grimal@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.6.2"
